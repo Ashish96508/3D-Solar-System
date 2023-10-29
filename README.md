@@ -1,2 +1,2 @@
-# Smart-Butler
-It is the project based on AI ML and Coding With Basic Languages
+3D Solar System
+I have created a 3D solar system which shows the speed of the planet and tells about everyrhing on just clicking it
